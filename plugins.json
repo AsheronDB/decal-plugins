@@ -1,1 +1,82 @@
-[]
+[{
+    "name": "Virindi Tank",
+    "description": "",
+    "version": "1.0.0.0",
+    "website_url": "http://www.virindi.net/wiki/index.php/Virindi_Tank",
+    "author": "Virindi Inquisitor",
+    "maintainer": "Virindi Inquisitor",
+    "download_url": "http://www.virindi.net/plugins/updates/VirindiInstaller1008.zip",
+    "updated_at": ""
+}, {
+    "name": "AceCreator",
+    "description": "",
+    "version": "",
+    "website_url": "",
+    "repository_url": "",
+    "repository": {
+        "platform": "github",
+        "name": "harliq/AceCreator",
+        "filename": "AceCreator.dll"
+    },
+    "author": "Harli Quin",
+    "maintainer": "",
+    "download_url": "",
+    "updated_at": ""
+
+}, {
+    "name": "TreeStats",
+    "description": "",
+    "version": "",
+    "website_url": "",
+    "repository": {
+        "platform": "github",
+        "name": "amoeba/treestats",
+        "filename": "TreeStatsInstaller.exe"
+    },
+    "author": "Kolthar",
+    "maintainer": "Kolthar",
+    "download_url": "",
+    "updated_at": ""
+
+}, {
+    "name": "UtilityBelt",
+    "description": "",
+    "version": "",
+    "website_url": "https://utilitybelt.gitlab.io",
+    "repository": {
+        "platform": "gitlab",
+        "name": "utilitybelt/utilitybelt.gitlab.io"
+    },
+    "author": "trevis",
+    "maintainer": "trevis",
+    "download_url": "",
+    "updated_at": ""
+}, {
+    "name": "Mag-Tools",
+    "description": "",
+    "version": "",
+    "website_url": "",
+    "repository": {
+        "platform": "github",
+        "name": "Mag-nus/Mag-Plugins",
+        "filename": "MagTools.dll"
+    },
+    "author": "Mag-nus",
+    "maintainer": "Mag-nus",
+    "download_url": "",
+    "updated_at": ""
+}, {
+    "name": "ACManager",
+    "description": "",
+    "version": "",
+    "website_url": "",
+    "repository": {
+        "platform": "github",
+        "name": "patri0t86/ACManager",
+        "filename": "ACManager.msi"
+    },
+    "author": "patri0t",
+    "maintainer": "patri0t",
+    "download_url": "",
+    "updated_at": ""
+}]
