@@ -1,82 +1,2005 @@
-[{
-    "name": "Virindi Tank",
-    "description": "",
-    "version": "1.0.0.0",
-    "website_url": "http://www.virindi.net/wiki/index.php/Virindi_Tank",
-    "author": "Virindi Inquisitor",
-    "maintainer": "Virindi Inquisitor",
-    "download_url": "http://www.virindi.net/plugins/updates/VirindiInstaller1008.zip",
-    "updated_at": ""
-}, {
-    "name": "AceCreator",
-    "description": "",
-    "version": "",
-    "website_url": "",
-    "repository_url": "",
-    "repository": {
-        "platform": "github",
-        "name": "harliq/AceCreator",
-        "filename": "AceCreator.dll"
+[
+    {
+      "id": "5ACB7319-8E15-4A4A-A24D-59180DA1DF49",
+      "description": "An updated version of Flynn1179's AC+ plugin. Includes various fixes, VVS bar integration, and VHS hotkey support. Closed source, distributed with permission.",
+      "name": "AC+",
+      "releases": {
+        "stable": {
+          "version": "2.0.0.2208",
+          "download_url": "http://virindi.net/plugins/files/get.php?id=34"
+        }
+      },
+      "author": "Flynn",
+      "maintainer": "Virindi Inquisitor",
+      "website_url": "http://virindi.net/plugins"
     },
-    "author": "Harli Quin",
-    "maintainer": "",
-    "download_url": "",
-    "updated_at": ""
+    {
+      "id": "DCCF58A6-A37A-4FEA-ADCC-488CE2D51883",
+      "description": "",
+      "name": "ACAudio",
+      "releases": {
+        "stable": {
+          "version": "2.0.1.0",
+          "released_at": "2024-02-21T12:00:00Z",
+          "download_url": "https://github.com/bahstrike/ACAudio/releases/download/2.0.1.0/ACAudio-2.0.1.0.exe"
+        }
+      },
+      "author": "Strike",
+      "maintainer": "Strike",
+      "repository_url": "https://github.com/bahstrike/ACAudio",
+      "website_url": "https://acaudio.bah.wtf"
+    },
+    {
+      "id": "22F2F50A-38E5-4866-B320-C32EC8822B3B",
+      "description": "",
+      "name": "ACChromaConnect",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        }
+      },
+      "author": "paradox",
+      "maintainer": "Thwargle",
+      "website_url": "https://github.com/Thwargle/ac-chroma",
+      "updated_at": ""
+    },
+    {
+      "id": "5C813DB6-6D2A-45B9-B379-D56A68C5ED96",
+      "description": "This provides multicharacter bot functionality to an account on Asheron's Call. You set a portal keyword (only requirement), and a description, level, and a heading (those 3 are optional). If the bot is turned on, the bot will do the rest!",
+      "name": "ACManager",
+      "releases": {
+        "stable": {
+          "version": "3.2.0",
+          "released_at": "2021-06-03T12:00:00Z",
+          "download_url": "https://github.com/patri0t86/ACManager/releases/download/3.2.0/ACManager.dll"
+        }
+      },
+      "author": "patri0t86",
+      "maintainer": "patri0t86",
+      "repository_url": "https://github.com/patri0t86/ACManager",
+      "website_url": "https://github.com/patri0t86/ACManager"
+    },
+    {
+      "id": "3DF94708-3539-4A17-A45E-6DDDBE7CD419",
+      "description": "AcPowerSaver limits your framerate (on the character selection screen and/or ingame) to prevent your GPU fan from spinning up too much.",
+      "name": "ACPowerSaver",
+      "releases": {
+        "stable": {
+          "version": "1.1.6.0",
+          "download_url": "https://mega.nz/#!G10CFCLB!YVBs6xKIqa83xp1lzz4HyImrwWEt3calaU535gW6djc"
+        }
+      },
+      "author": "-lino-",
+      "maintainer": "Unknown",
+      "website_url": "http://web.archive.org/web/20150220074107/http://ac.ranta.info:80/AcPowerSaver"
+    },
+    {
+      "id": "C3DD4C40-266C-4E68-BEBC-AF611A105BCC",
+      "description": "Decal plugin for Asheron's Call. Regex grouping & login commands, AutoXP, Location-triggers, Spellbar management, improved login queue",
+      "name": "ACx",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "released_at": "2021-09-25T12:00:00Z",
+          "download_url": "https://github.com/aquafir/ACx/releases/download/plugin/ACx.zip"
+        }
+      },
+      "author": "Aquafir",
+      "maintainer": "Aquafir",
+      "repository_url": "https://github.com/aquafir/Acx",
+      "website_url": "https://github.com/aquafir/Acx"
+    },
+    {
+      "id": "5447EB5A-A6BC-469A-BC4B-CEF1768B0C7C",
+      "description": "This plugin allows you to create aliases to make it easier to /tell people you talk to a lot.",
+      "name": "A.K.A.",
+      "releases": {
+        "stable": {
+          "version": "1.0.1.1",
+          "released_at": "2007-04-21T12:00:00Z",
+          "download_url": "https://mega.nz/#!W8FhHKpZ!FVmeDokin1I8IOIzyLCzZ-ltbwzQzX09goygEM_x-80"
+        }
+      },
+      "author": "Flynn",
+      "maintainer": "Flynn",
+      "website_url": "https://web.archive.org/web/20170129101201/http://www.flynn1179.net/ac/?aka"
+    },
+    {
+      "id": "9F82CD52-4310-49CE-A563-FEA5006AE9E0",
+      "description": "Decal Plugin to help with creating content on ACE.",
+      "name": "AceCreator",
+      "releases": {
+        "stable": {
+          "version": "2.0.1.0",
+          "released_at": "2020-11-05T12:00:00Z",
+          "download_url": "https://github.com/harliq/AceCreator/releases/download/v2.0.1.0/AceCreator.dll"
+        }
+      },
+      "author": "Harli Quin",
+      "maintainer": "Harli Quin",
+      "repistory_url": "https://github.com/harliq/AceCreator",
+      "website_url": "https://github.com/harliq/AceCreator"
+    },
+    {
+      "id": "66AB7612-565B-4050-B5AF-0401C8C06127",
+      "description": "AetherFilter is a CharacterFilter and WorldFilter replacement for Decal that is required for GearFoundry v2.x to function.",
+      "name": "AetherFilter",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.20",
+          "download_url": "https://mega.nz/folder/L1MniCKJ#1dQCCFPc2ddcFILa_JGeZw/folder/69szyBBT"
+        }
+      },
+      "author": "irquk",
+      "maintainer": "irquk",
+      "website_url": "https://web.archive.org/web/20180828022557/http://asheron.aetherific.com/AetherFilter"
+    },
+    {
+      "id": "359E547B-5302-4134-80F2-3BE5C31EC828",
+      "description": "AgentZ is a general chat handling, xp tracking and HUD plugin with several additional features. It can filter chat, change the color of a chat line, and add sound alerts for recieving chat, as well as doing command aliases and add information to chat output. It tracks your experience statistics and displays that and other information to a HUD. It also includes a clock HUD and a item HUD, a target HUD, and a status HUD. It also has several other features to make playing easier and more enjoyable, including auto mana stone use, auto bonus gem use, and auto beer use.",
+      "name": "AgentZ",
+      "releases": {
+        "stable": {
+          "version": "1.1.0.2",
+          "download_url": "https://mega.nz/#!Ttd3kaDI!06PgZlHtQ7dOodsrtyIQmYErEdmdxWDPPgQ2BmEIZEY"
+        }
+      },
+      "author": "Zegeger",
+      "maintainer": "Zegeger",
+      "website_url": "https://web.archive.org/web/20120319220725/http://decal.zegeger.net:80/index.php?page=agentz"
+    },
+    {
+      "id": "ED1645F2-7BE3-44C0-8677-F64252F79309",
+      "description": "Plugin features several enhancements to AC, including view screen enhancements, inventory management, mob/item identification (requires Alinco World Filter)",
+      "name": "Alinco",
+      "releases": {
+        "stable": {
+          "version": "2.0.5.7",
+          "released_at": "2017-08-16T12:00:00Z",
+          "download_url": ""
+        }
+      },
+      "author": "irquk",
+      "maintainer": "irquk",
+      "website_url": "https://web.archive.org/web/20181107083543/https://asheron.aetherific.com/alinco"
+    },
+    {
+      "id": "57085C14-9889-492D-8E8B-B9BB1054564D",
+      "description": "",
+      "name": "Alinco3Buffs",
+      "releases": {
+        "stable": {
+          "version": "2.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://ac.lastalias.com/plugins.html",
+      "updated_at": ""
+    },
+    {
+      "id": "413DDA06-CD95-45E2-B64C-DAC3B1D743F5",
+      "description": "",
+      "name": "ArrowCam",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!PxF3SQLI!syM6JTYKvfWNvT9v4PRfGRtc1iLG0wxQ66KP8TBeUb8",
+      "updated_at": ""
+    },
+    {
+      "id": "40B2DBAD-3750-4C13-BE11-1854DA95B71E",
+      "description": "",
+      "name": "AutoSalvage",
+      "releases": {
+        "stable": {
+          "version": "0.0.0.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!j8MiRJha!_vvLOCOrd5KP8v6O3RcGD-fJzEw2DqQc-ERS7Q7CLe0",
+      "updated_at": ""
+    },
+    {
+      "id": "483346A1-7459-4F5D-AD76-A13B2E431D14",
+      "description": "",
+      "name": "BabelFish",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!61MTwKbJ!juzENQW8dGNLZf5pk3YaB3awopvpSKXVRe66NIeiN80",
+      "updated_at": ""
+    },
+    {
+      "id": "4693BA00-CD49-11E9-A32F-2A2AE2DBCCE4",
+      "description": "",
+      "name": "BotShopper",
+      "releases": {
+        "stable": {
+          "version": "1.0.1.1",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://gitlab.com/trevis/botshopper",
+      "updated_at": ""
+    },
+    {
+      "id": "22C182F7-DD8E-4894-B7F0-27D52B27DA96",
+      "description": "",
+      "name": "BuffMe",
+      "releases": {
+        "stable": {
+          "version": "0.1.8.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!6pF1lSaI!_8LdibCXepBqk1oiZWX_fbdLkbo3Sj6W7p4G1-aAbCs",
+      "updated_at": ""
+    },
+    {
+      "id": "DECA1000-4354-4329-B003-9592F948C1A3",
+      "description": "",
+      "name": "CallIt!",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!TgMnHajZ!juGbeWnfR5dbvHishvCNNuKjgLYLUaMXZFDdN7jSLTo",
+      "updated_at": ""
+    },
+    {
+      "id": "4EB455CB-A2DA-44B6-90F2-09517A4B1476",
+      "description": "",
+      "name": "CastAway",
+      "releases": {
+        "stable": {
+          "version": "1.8.0.5",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!74VBESRB!HAi6ZW9xDdbBiFGCRg7atcH6Dg2SKXuZHSm7ESDhaE0",
+      "updated_at": ""
+    },
+    {
+      "id": "DECA1000-10C8-423C-B851-5CDBCDCA58DF",
+      "description": "",
+      "name": "CastIt!",
+      "releases": {
+        "stable": {
+          "version": "1.0.2.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!zlUjWQLY!XmkTDG8vBDP39omahRe5h-DKydyAIA5sI_tBqyKClJo",
+      "updated_at": ""
+    },
+    {
+      "id": "C77FED2C-45C8-4CCF-B46E-27E6F28BC368",
+      "description": "",
+      "name": "CatchIt!",
+      "releases": {
+        "stable": {
+          "version": "1.2.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!GsMRza4Y!_eeGhfI6CsbMO0BAWipn8PEnB03V4hOTSDGwg7P5IGU",
+      "updated_at": ""
+    },
+    {
+      "id": "0A2F484B-54A6-4084-8286-C3755E1148A6",
+      "description": "",
+      "name": "ChaosHelper",
+      "releases": {
+        "stable": {
+          "version": "2.2.6.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://github.com/Oonej/ChaosHelper/releases/tag/2.2.5.0",
+      "updated_at": ""
+    },
+    {
+      "id": "F14576E0-CFCF-4DBF-8C20-68E748029D69",
+      "description": "",
+      "name": "CommanderRadar",
+      "releases": {
+        "stable": {
+          "version": "1.2.2.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!Xp8EjCxa!BaRGTjvW0gprIzjIZMM3cCFbnjjJJgcTEdobj21JxoI",
+      "updated_at": ""
+    },
+    {
+      "id": "FAACFA40-DC2A-4B1F-A762-7141643C454E",
+      "description": "",
+      "name": "Content Override Service",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.19301",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://paradoxlost.com/projects/datswap.html",
+      "updated_at": ""
+    },
+    {
+      "id": "B45EF4AD-0D1B-4D74-AA4C-D0CC3045C619",
+      "description": "",
+      "name": "CorpseTracker",
+      "releases": {
+        "stable": {
+          "version": "1.0.1.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!blMz3IwC!hBdQQUMki18dmPvWcuPFjv674LsAeBz7SlrqeRphKsI",
+      "updated_at": ""
+    },
+    {
+      "id": "397ABE6E-8E67-4C02-B07F-C14C47573BD8",
+      "description": "",
+      "name": "CovenantAdvisor",
+      "releases": {
+        "stable": {
+          "version": "1.0.1.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!jxU2xBYI!1v23khNVdr6tTmsH-dmyasj63xnJIWd9dwIIhU-ebcg",
+      "updated_at": ""
+    },
+    {
+      "id": "77E7C97D-CB6C-4419-BE13-6C996550A680",
+      "description": "",
+      "name": "DIRCal",
+      "releases": {
+        "stable": {
+          "version": "0.7.0.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "26D55B2D-D612-40B1-8A7A-27D9137BAC23",
+      "description": "",
+      "name": "DamageTracker",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!m4dhhIJC!EYgLK-jnsCabPnoslrQeUClqAaGJN4w7z5haQvMogHk",
+      "updated_at": ""
+    },
+    {
+      "id": "5522F031-4D14-4BC1-A6F1-09A1FB36F90E",
+      "description": "",
+      "name": "DeadeyeColorSystem",
+      "releases": {
+        "stable": {
+          "version": "2.0.0.3",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!C9NTgQYA!I6L1lKjsxD_eIfMFGhYxBbw4sigT9dmjnj8HNeFQ-SU",
+      "updated_at": ""
+    },
+    {
+      "id": "36F8A62C-2F29-4F02-A6BF-99BA08CC5D26",
+      "description": "",
+      "name": "Defective",
+      "releases": {
+        "stable": {
+          "version": "1.0.1.4",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!OtUhhABZ!UqbC25ZNO9SF48UEK23dgXPQV7XW2GuFZ8mQTbQC2Yg",
+      "updated_at": ""
+    },
+    {
+      "id": "B06FC7A0-FD06-4C8E-A339-7BF9B1CA2063",
+      "description": "",
+      "name": "Defiance",
+      "releases": {
+        "stable": {
+          "version": "2.0.1.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!H8sXiYpD!1kdLXyonVJPXOzF7ANO_gzk03xSu_vOHIUvKF541Z60",
+      "updated_at": ""
+    },
+    {
+      "id": "96A085A9-7A75-4D36-9437-07DB39EF0BA0",
+      "description": "",
+      "name": "DoThingsBot",
+      "releases": {
+        "stable": {
+          "version": "2.0.0.6",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://gitlab.com/trevis/dothingsbot",
+      "updated_at": ""
+    },
+    {
+      "id": "3C4AC0AB-35A2-4DC7-B1A9-B4C1761DF314",
+      "description": "",
+      "name": "DoorButler",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://reloader.icelords.com/",
+      "updated_at": ""
+    },
+    {
+      "id": "212FD2A3-58BD-41E8-AAE1-63F1D729A349",
+      "description": "",
+      "name": "EmoteButler",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://reloader.icelords.com/",
+      "updated_at": ""
+    },
+    {
+      "id": "EE0FD1D6-EFDB-4B8F-B949-FA06F60BB8C5",
+      "description": "",
+      "name": "Evader",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!Ll800SCR!ciD920UCb_ZE1ZkoYSZcLO-qt40WSpeL9gD1qB4RzIc",
+      "updated_at": ""
+    },
+    {
+      "id": "21BC4BAD-9ED1-42C7-A249-FF2260ECA6A9",
+      "description": "",
+      "name": "FelscudasNotes",
+      "releases": {
+        "stable": {
+          "version": "0.8.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!noUjQa4A!Nf6isls7uoG-fMD8gDhwogrw1_fvUv2LVCpAy0MSSx4",
+      "updated_at": ""
+    },
+    {
+      "id": "C97181C4-0531-4D3B-BC7C-3390EBAECCC8",
+      "description": "",
+      "name": "FortuneHunter",
+      "releases": {
+        "stable": {
+          "version": "1.0.1.1",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!f4MX2aRT!A5Tqu7A0e_5pbygjrZrLpT55hsndOeQG2ZGAHnnRKpE",
+      "updated_at": ""
+    },
+    {
+      "id": "4BE061A1-3F70-423C-8571-3542DD63373E",
+      "description": "",
+      "name": "GearFoundry",
+      "releases": {
+        "stable": {
+          "version": "2.0.4.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://asheron.aetherific.com/",
+      "updated_at": ""
+    },
+    {
+      "id": "5E8D5E3D-C04D-4976-98B6-9A8DCBC4212D",
+      "description": "",
+      "name": "GoArrow",
+      "releases": {
+        "stable": {
+          "version": "2.5.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "677A9A73-54F4-415A-BF28-E333C93FFA1F",
+      "description": "",
+      "name": "Hex",
+      "releases": {
+        "stable": {
+          "version": "0.9.6.5",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!exc1GajY!aEM9uBjgpvgKmIOrcAuwqkyPQXimjdurgc99tAXYl-M",
+      "updated_at": ""
+    },
+    {
+      "id": "E01DC34A-62E0-42B8-BBC4-D42D013D882F",
+      "description": "",
+      "name": "HouseMan",
+      "releases": {
+        "stable": {
+          "version": "1.0.2.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!SpNXyS6S!_uzLTu_EQPO424H-12a66SS_FSmMJV9jEmuC2SMhmtM",
+      "updated_at": ""
+    },
+    {
+      "id": "37DEF914-A323-49FA-B948-3D0EF05E737F",
+      "description": "",
+      "name": "Hush",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.15",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!29FjHYoR!CtCE5_TQm1SsN7CCH1nNCPnDEklwR8LjXQTg5g6GjhQ",
+      "updated_at": ""
+    },
+    {
+      "id": "0A2F484B-54A6-4084-8286-C3755E1148A7",
+      "description": "",
+      "name": "IconHelper",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!X8kEyQZL!ZtvraUB84k3ZDB7QN36AnAspa8XE8ystQoIpK_fcro8",
+      "updated_at": ""
+    },
+    {
+      "id": "006D1FA0-DDB5-42BC-9DAA-6D1DC696712E",
+      "description": "",
+      "name": "ImpInventory",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.4",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://imp.arkayas.com/impinv.aspx",
+      "updated_at": ""
+    },
+    {
+      "id": "F5D86F99-AF69-4CFF-9F2C-33103BB563C5",
+      "description": "",
+      "name": "InVitro",
+      "releases": {
+        "stable": {
+          "version": "1.3.1.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://gitlab.com/trevis/invitro",
+      "updated_at": ""
+    },
+    {
+      "id": "F5D86F99-AF69-4CFF-9F2C-33103BB563C5",
+      "description": "",
+      "name": "Invitro",
+      "releases": {
+        "stable": {
+          "version": "1.3.1.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://gitlab.com/trevis/invitro",
+      "updated_at": ""
+    },
+    {
+      "id": "F1C2F898-3A88-48EA-8AB5-BAE55353025F",
+      "description": "",
+      "name": "KhaoTipper",
+      "releases": {
+        "stable": {
+          "version": "2.9.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://ac.circleofseven.com/downloads/kt/kt.html",
+      "updated_at": ""
+    },
+    {
+      "id": "C00DE45D-3A36-4AA8-BCFB-28E054250C6C",
+      "description": "",
+      "name": "KillTaskTracker",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.01",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://github.com/dfransway/KillTaskTracker/releases",
+      "updated_at": ""
+    },
+    {
+      "id": "952B4754-AA52-430E-B7BD-DB293412D99C",
+      "description": "",
+      "name": "L33tSensor",
+      "releases": {
+        "stable": {
+          "version": "43.1.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!701CRYgY!RgyxsXi5b0wn_ZvjI_05b18Gu1Niwq-O529ZzbruUF0",
+      "updated_at": ""
+    },
+    {
+      "id": "910C0F8E-827A-4E35-A980-50D57D0B1296",
+      "description": "",
+      "name": "LifeTank",
+      "releases": {
+        "stable": {
+          "version": "12.1.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://sites.google.com/site/lifetankx/ltx2015-forums",
+      "updated_at": ""
+    },
+    {
+      "id": "564F9780-062F-42D1-816D-756BF4F725C0",
+      "description": "",
+      "name": "LockesArmyKnife",
+      "releases": {
+        "stable": {
+          "version": "1.5.4.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!7xUyjJpQ!shIaAmp_famVtQUFZPQPIaqwx6CmRz52qx7fQqv_HYg",
+      "updated_at": ""
+    },
+    {
+      "id": "507DBB5C-B0AD-4839-9CFC-3CD302CD4DFA",
+      "description": "",
+      "name": "LogWiz",
+      "releases": {
+        "stable": {
+          "version": "2.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!CkFlSSYa!tjfYHqygobz3c6dxxkZzxoxNqj9eOMr2kC86gSzNyJo",
+      "updated_at": ""
+    },
+    {
+      "id": "15395EC4-585E-4C59-9813-9C9F1654026C",
+      "description": "",
+      "name": "MagFilter",
+      "releases": {
+        "stable": {
+          "version": "2.0.3.4",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://github.com/Mag-nus/Mag-Plugins/releases",
+      "updated_at": ""
+    },
+    {
+      "id": "959D5CA6-0BD5-48A2-9AD2-F95F94DCDC3E",
+      "description": "",
+      "name": "MagTools",
+      "releases": {
+        "stable": {
+          "version": "2.1.6.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://github.com/Mag-nus/Mag-Plugins/releases",
+      "updated_at": ""
+    },
+    {
+      "id": "70DD2CC6-E638-4F43-9F15-C84A0FC7DC76",
+      "description": "",
+      "name": "MakeIt!",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!zpFVRYKR!LfQj8dc681hHaVXtp5PcmJA3MtCk9Ca0M5-IksQ-Qkc",
+      "updated_at": ""
+    },
+    {
+      "id": "D41CF573-A799-48D6-BEAB-25F63F5EEA21",
+      "description": "",
+      "name": "ManaMinder",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!SpchHKaR!Amv7Gy_cMXfMukokgpgLuENi0vx1NhjY8M91lVy_Kds",
+      "updated_at": ""
+    },
+    {
+      "id": "92C09018-E815-4C22-987B-8E553154146E",
+      "description": "",
+      "name": "MiniMap",
+      "releases": {
+        "stable": {
+          "version": "1.1.0.264",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!61V3FSxT!sDdgz7hzYBRXj0UX5LsGEEE7H39n4bIBOljNVPJVZ9c",
+      "updated_at": ""
+    },
+    {
+      "id": "0C212D60-8708-4043-A09B-E6C0387A0A8D",
+      "description": "",
+      "name": "MobTracker",
+      "releases": {
+        "stable": {
+          "version": "1.4.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://mobtracker.yewsplugins.com/",
+      "updated_at": ""
+    },
+    {
+      "id": "0A2F484B-54A6-4084-8286-C374231148A6",
+      "description": "",
+      "name": "MudSort",
+      "releases": {
+        "stable": {
+          "version": "1.6.2.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://github.com/mudzereli/mudsort/releases/tag/1.6.2",
+      "updated_at": ""
+    },
+    {
+      "id": "E03C7756-262A-4741-8619-B6DEA65715EA",
+      "description": "",
+      "name": "MuleThis",
+      "releases": {
+        "stable": {
+          "version": "1.3.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!S00GVJaa!qSXNtT5g6iavkwYbZ-mELRAusVElpADvyVSc9uan8AI",
+      "updated_at": ""
+    },
+    {
+      "id": "9D762D6E-6444-485A-B242-C50386013763",
+      "description": "",
+      "name": "MuleTradeIt!",
+      "releases": {
+        "stable": {
+          "version": "3.6.8.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!WkdzFAJT!bRMWdTmt4CtsOPKQnePsaUwgC_53FMOf4yyXJ9UPGfk",
+      "updated_at": ""
+    },
+    {
+      "id": "F6927D92-2E32-44E2-9572-00A7D30CC5E2",
+      "description": "",
+      "name": "NinjAlert",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://reloader.icelords.com/",
+      "updated_at": ""
+    },
+    {
+      "id": "6FE3ACF3-05C5-4194-BBD5-D72E2741E27E",
+      "description": "",
+      "name": "Octagram",
+      "releases": {
+        "stable": {
+          "version": "1.5.0.8",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://asheron.aetherific.com/Octagram",
+      "updated_at": ""
+    },
+    {
+      "id": "00C6613A-1E1F-40AC-8F74-E088D3B34417",
+      "description": "",
+      "name": "PartyLine",
+      "releases": {
+        "stable": {
+          "version": "1.1.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://gitlab.com/trevis/partyline/-/releases",
+      "updated_at": ""
+    },
+    {
+      "id": "39EACE9F-1BF2-4E4F-BFBC-2FD9EB76A47B",
+      "description": "",
+      "name": "PopulationFilter",
+      "releases": {
+        "stable": {
+          "version": "0.0.2.5",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://acdev.sourceforge.net/",
+      "updated_at": ""
+    },
+    {
+      "id": "0A2F484B-54A6-4084-8286-C3755E114047",
+      "description": "",
+      "name": "ProximityHealth",
+      "releases": {
+        "stable": {
+          "version": "1.0.50.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://github.com/adpriebe/acproximityhealth",
+      "updated_at": ""
+    },
+    {
+      "id": "1EB3CCA3-001A-423A-9559-75A29E17C387",
+      "description": "",
+      "name": "Quack",
+      "releases": {
+        "stable": {
+          "version": "2.9.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://ac.circleofseven.com/downloads/quack/quack.html",
+      "updated_at": ""
+    },
+    {
+      "id": "BB51962C-2EEE-4E67-A032-EEC1F11E66C8",
+      "description": "",
+      "name": "QuestTimer",
+      "releases": {
+        "stable": {
+          "version": "2.4.2.0 (Alpha)",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!L8NjQSLa!vvwcyXo-AeZf2doOrU_HWsQCo4J7HH147tSLsh2Y_zc",
+      "updated_at": ""
+    },
+    {
+      "id": "451D5BB3-F7FD-4CC4-9087-3140CEADBF1C",
+      "description": "",
+      "name": "QuestTracker",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.5",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://gitlab.com/Schneebly/questtracker",
+      "updated_at": ""
+    },
+    {
+      "id": "0A2F484B-54A6-4084-8286-C3755E1148A7",
+      "description": "",
+      "name": "Quests",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.3",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!6982zKaR!wWOKX_hiRRljLqooAWTuYU1awadBBK75cN6nVOKpqz",
+      "updated_at": ""
+    },
+    {
+      "id": "CA23F8D7-7E71-423A-A928-BC5CDD8FBD96",
+      "description": "",
+      "name": "RadarAddOn",
+      "releases": {
+        "stable": {
+          "version": "1.2.0.53",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!LodzlCCR!gKsw6adHoFekBIXkbKXMlIEvKLfcPZZxfsjrdQ_eGeM",
+      "updated_at": ""
+    },
+    {
+      "id": "0A2F484B-54A6-4084-8286-C3665E1148A6",
+      "description": "",
+      "name": "RareHunter",
+      "releases": {
+        "stable": {
+          "version": "3.1.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://github.com/Oonej/RareHunter/releases",
+      "updated_at": ""
+    },
+    {
+      "id": "75F00DC9-45F1-40DD-B286-FED762E91312",
+      "description": "",
+      "name": "Reloader",
+      "releases": {
+        "stable": {
+          "version": "1.0.1.6",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://reloader.icelords.com/",
+      "updated_at": ""
+    },
+    {
+      "id": "F9B58407-790B-4132-B7A7-9489987EE2F7",
+      "description": "",
+      "name": "Relogic",
+      "releases": {
+        "stable": {
+          "version": "3.0.1.7",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!Gwt33IiZ!I7R1MaYsot5TQCRbwDcvL4wHADTAfQ5kaVH5RNQTek4",
+      "updated_at": ""
+    },
+    {
+      "id": "D77DAD0D-75C7-425D-96AE-E8B3E1366EF3",
+      "description": "",
+      "name": "SSSort",
+      "releases": {
+        "stable": {
+          "version": "3.0.0.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "13187128-A9C3-42B6-90C8-BF544C62F3DD",
+      "description": "",
+      "name": "Screenr",
+      "releases": {
+        "stable": {
+          "version": "1.4.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!q0dGDBLL!P9lEyjybr8GX7ZC4EIjReMa5LFhLax-cFMMUFX4IjGs",
+      "updated_at": ""
+    },
+    {
+      "id": "1D9551D0-E3EF-4D2F-9953-6469550497DC",
+      "description": "",
+      "name": "ScrollReader3",
+      "releases": {
+        "stable": {
+          "version": "1.7.3.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!SsNVjSZB!fjneSYPUSDPcQDXleSrD85hjZeUfDVF-pctd8l3j9Qc",
+      "updated_at": ""
+    },
+    {
+      "id": "2452858E-3ABA-4600-9864-0EF40FC6FBCE",
+      "description": "",
+      "name": "Scrolls",
+      "releases": {
+        "stable": {
+          "version": "1.0.4.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!vgF1kC5J!n0cX5jg5Ib4fn1gRqpRwAGORFNVhqnq_dpvCbNDdM_A",
+      "updated_at": ""
+    },
+    {
+      "id": "6693D42B-1F5B-425F-BEAA-396175CB3A3D",
+      "description": "",
+      "name": "Sellvage",
+      "releases": {
+        "stable": {
+          "version": "1.3.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!7xcXVCoD!hqARXXM98fpgLvXjhJyUsRpbQYY7V-9GhZa4y2ZQDOA",
+      "updated_at": ""
+    },
+    {
+      "id": "7074E68B-5725-4D79-9C45-FF8C91FB3448",
+      "description": "",
+      "name": "Silence",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://the-unsane.com/silence/",
+      "updated_at": ""
+    },
+    {
+      "id": "43D08DEB-7490-4990-9688-AA25685A44A9",
+      "description": "",
+      "name": "SkunkVision",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.8 (VVS)",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "C0535F3D-9DA2-4617-A7BD-4495F7C379E9",
+      "description": "",
+      "name": "SkunkWorks",
+      "releases": {
+        "stable": {
+          "version": "3.5.509",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://skunkworks.sourceforge.net/",
+      "updated_at": ""
+    },
+    {
+      "id": "9635F452-470B-4E4F-8EE8-47F78F304EEC",
+      "description": "",
+      "name": "SocietyAid",
+      "releases": {
+        "stable": {
+          "version": "1.1.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!b8U1jYbB!Iov2t6dsn0o094J9nFhIREAOPupSWNFAvx9crKF6Yt8",
+      "updated_at": ""
+    },
+    {
+      "id": "8F5FD134-DB02-4DB1-86D6-B3F685236ED7",
+      "description": "",
+      "name": "SoulSeeker",
+      "releases": {
+        "stable": {
+          "version": "0.9.9.1",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://github.com/kusoarashi/SoulSeeker/releases",
+      "updated_at": ""
+    },
+    {
+      "id": "C9D83ECD-28C6-4D9D-B994-984DB26B5C2E",
+      "description": "",
+      "name": "SpellbarSaver",
+      "releases": {
+        "stable": {
+          "version": "2.2.0.1",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!6oUlGCpa!W1k016I8uVq_hHwut5i4-LWufSlO_FhvHyG48Bv0qZA",
+      "updated_at": ""
+    },
+    {
+      "id": "1A2620FD-1348-4C1A-8BBA-D31E13562F29",
+      "description": "",
+      "name": "SpellsToFile",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://ac.lastalias.com/MiscPluginsTools.html",
+      "updated_at": ""
+    },
+    {
+      "id": "AE757532-46A3-47EE-AEA7-59748ED6B0F5",
+      "description": "",
+      "name": "Spies",
+      "releases": {
+        "stable": {
+          "version": "3.0.0.3",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!CpE3jKaD!FOJ-BSCg2LAlLjAGtTiEz-wui6MGH39OfQun8L4-0dw",
+      "updated_at": ""
+    },
+    {
+      "id": "77B00276-B787-4ED9-B242-4348E917EE36",
+      "description": "",
+      "name": "Squire",
+      "releases": {
+        "stable": {
+          "version": "1.0.1.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!z9NBHCjB!MQWBuTDyp6dfEYTbMwwhDrmeZfNMD6HGCBA0w8yOtQ0",
+      "updated_at": ""
+    },
+    {
+      "id": "48DBDDCD-BD10-43F5-B57A-73996DCA51C1",
+      "description": "",
+      "name": "StuffExchanger",
+      "releases": {
+        "stable": {
+          "version": "1.1.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!ftEwDLjB!4cbAS7YgvBujEs8VHJys0MEB8VG_u22pdNT50ai-WzI",
+      "updated_at": ""
+    },
+    {
+      "id": "DC64986B-4354-4A58-92FF-65221F47C23F",
+      "description": "",
+      "name": "TargetHUD",
+      "releases": {
+        "stable": {
+          "version": "1.2.2.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!nkliFSAL!zwAlj2WeMf69-Gi-YyUP9h2Qd8SyR7W6poGl1YtASsQ",
+      "updated_at": ""
+    },
+    {
+      "id": "E72999D8-9218-4FB8-A978-DF4320E64AF1",
+      "description": "",
+      "name": "The Deep",
+      "releases": {
+        "stable": {
+          "version": "2.7.0.20",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://ac.circleofseven.com/downloads/thedeep/thedeep.html",
+      "updated_at": ""
+    },
+    {
+      "id": "864F2945-A564-4C8D-A36F-0CAF267F7612",
+      "description": "",
+      "name": "Tings",
+      "releases": {
+        "stable": {
+          "version": "2.0.0.1",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://flipo.roogon.com/",
+      "updated_at": ""
+    },
+    {
+      "id": "71D3F28A-5195-4AEE-92C3-3F23C436A01D",
+      "description": "",
+      "name": "TitleTools",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!D81wVa6C!_tgc_NiahV9yVZV0tDWeyaXpR07n1bdzhVXLdOWg2UA",
+      "updated_at": ""
+    },
+    {
+      "id": "F86E1BAE-C2F8-4060-9B98-CD74EB41EB6E",
+      "description": "",
+      "name": "TownCrier",
+      "releases": {
+        "stable": {
+          "version": "1.3.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://github.com/amoeba/TownCrier/releases",
+      "updated_at": ""
+    },
+    {
+      "id": "70DDCA83-D11F-4D0F-AB84-26B26DC36B2D",
+      "description": "",
+      "name": "TrackIt!",
+      "releases": {
+        "stable": {
+          "version": "2.7.0.0",
+          "download_url": ""
+        },
 
-}, {
-    "name": "TreeStats",
-    "description": "",
-    "version": "",
-    "website_url": "",
-    "repository": {
-        "platform": "github",
-        "name": "amoeba/treestats",
-        "filename": "TreeStatsInstaller.exe"
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!LhEVGI4B!ccUyUh134HpshOrlKE-62yD-ZmmNafXXh16pcgv6vbc",
+      "updated_at": ""
     },
-    "author": "Kolthar",
-    "maintainer": "Kolthar",
-    "download_url": "",
-    "updated_at": ""
-
-}, {
-    "name": "UtilityBelt",
-    "description": "",
-    "version": "",
-    "website_url": "https://utilitybelt.gitlab.io",
-    "repository": {
-        "platform": "gitlab",
-        "name": "utilitybelt/utilitybelt.gitlab.io"
+    {
+      "id": "FBC6259D-86FF-4189-ABB9-E2E810E0AC22",
+      "description": "TreeStats records ingame data from your characters using the Decal plugin, sends it to the web app, which stores it in a web-accessible database for convenient out-of-game browsing.",
+      "name": "TreeStats",
+      "releases": {
+        "stable": {
+          "version": "1.2.1",
+          "download_url": "https://github.com/amoeba/treestats/releases/download/v1.2.1/TreeStatsInstaller.exe"
+        },
+        "beta": {
+          "version": "1.2.3.0b",
+          "download_url": "https://github.com/amoeba/treestats/releases/download/v1.2.3b/TreeStats_v1.2.3b.zip"
+        },
+      },
+      "author": "Kolthar",
+      "maintainer": "Kolthar",
+      "repository_url": "https://github.com/amoeba/treestats",
+      "website_url": "https://github.com/amoeba/treestats",
+      "updated_at": ""
     },
-    "author": "trevis",
-    "maintainer": "trevis",
-    "download_url": "",
-    "updated_at": ""
-}, {
-    "name": "Mag-Tools",
-    "description": "",
-    "version": "",
-    "website_url": "",
-    "repository": {
-        "platform": "github",
-        "name": "Mag-nus/Mag-Plugins",
-        "filename": "MagTools.dll"
+    {
+      "id": "C51788B5-3C43-471A-8034-79D5865FD7BD",
+      "description": "",
+      "name": "UtilityBelt",
+      "releases": {
+        "stable": {
+          "version": "0.2.7.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://utilitybelt.gitlab.io/",
+      "updated_at": ""
     },
-    "author": "Mag-nus",
-    "maintainer": "Mag-nus",
-    "download_url": "",
-    "updated_at": ""
-}, {
-    "name": "ACManager",
-    "description": "",
-    "version": "",
-    "website_url": "",
-    "repository": {
-        "platform": "github",
-        "name": "patri0t86/ACManager",
-        "filename": "ACManager.msi"
+    {
+      "id": "0E9A99C9-5E0E-4308-B974-55FAB9B0D0EE",
+      "description": "",
+      "name": "VirindiArmorColorTool",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
     },
-    "author": "patri0t",
-    "maintainer": "patri0t",
-    "download_url": "",
-    "updated_at": ""
-}]
+    {
+      "id": "108ED493-48AD-42A6-AADC-EF773E4F185A",
+      "description": "",
+      "name": "VirindiAutomaticUpdatesFilter",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.8",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "B09BF764-3C4E-4FA6-83A9-F618C326BB6B",
+      "description": "",
+      "name": "VirindiBooter",
+      "releases": {
+        "stable": {
+          "version": "1.1.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "0A7B25AC-79A9-4F6A-9751-419B87A7BB05",
+      "description": "",
+      "name": "VirindiChatSystem5",
+      "releases": {
+        "stable": {
+          "version": "5.0.0.5",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "F99EC4CF-2C9B-4A8A-84A5-BAA7222F8A07",
+      "description": "",
+      "name": "VirindiFollower",
+      "releases": {
+        "stable": {
+          "version": "0.0.0.4",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "EB071330-DC65-4302-9CF9-6104B5B4C73B",
+      "description": "",
+      "name": "VirindiGlobalInventory",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.8",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "C6B1DF06-FF20-459E-8302-AA346CBFDA01",
+      "description": "",
+      "name": "VirindiHUDs",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.18",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "ED7CC818-7159-461F-A833-4CA49E1C85B6",
+      "description": "",
+      "name": "VirindiHotkeySystem",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.6",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "7882AE88-CB68-4C98-BB94-90204C2D2156",
+      "description": "",
+      "name": "VirindiIntegrator2",
+      "releases": {
+        "stable": {
+          "version": "1.0.1.14",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "7BCA75A3-CC65-456B-BBB1-6383FB072B60",
+      "description": "",
+      "name": "VirindiItemTool",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.19",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "844F61A9-C017-4FB5-9C62-262B10D1F92B",
+      "description": "",
+      "name": "VirindiLogoVideoBlocker",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.1",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "8A186F3F-CAB2-4267-836D-E9E591AE8B89",
+      "description": "",
+      "name": "VirindiOCS",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "",
+      "description": "",
+      "name": "VirindiPluginsBundle",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.8",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "8C70FF56-0E53-4265-9E19-C4534A8D3AA8",
+      "description": "",
+      "name": "VirindiReporter",
+      "releases": {
+        "stable": {
+          "version": "0.0.0.8",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "8625358A-9ED1-4166-9CD6-8F9BBAD1359B",
+      "description": "",
+      "name": "VirindiSense",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.1",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "642F1F48-16BE-48BF-B1D4-286652C4533E",
+      "description": "",
+      "name": "VirindiTank",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "DBAC9286-B38D-4570-961F-D4D9349AE3D4",
+      "description": "",
+      "name": "VirindiViewService",
+      "releases": {
+        "stable": {
+          "version": "99.99.99.99",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "DCB2CFA5-BAB2-43C9-82C4-3C1616276862",
+      "description": "",
+      "name": "VirindiWindowTool",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.8",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "FDEB8524-C4CA-4A5B-8BA8-665F6B64D20F",
+      "description": "",
+      "name": "VirindiXPHelper",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.virindi.net/plugins/",
+      "updated_at": ""
+    },
+    {
+      "id": "1dfcdd62-14c4-44ab-87ca-a0e0dbca6d05",
+      "description": "",
+      "name": "WandMonkey",
+      "releases": {
+        "stable": {
+          "version": "1.0.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "https://mega.nz/#!i4tgVYgB!A26DQ0Swp_FWfmCumaQ-HU6qRZPJ74_VC30I9ttJIYI",
+      "updated_at": ""
+    },
+    {
+      "id": "D7252E67-B29C-4C51-83E8-8553A19A9D0A",
+      "description": "",
+      "name": "XnuTalk",
+      "releases": {
+        "stable": {
+          "version": "0.0.0.2",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://www.alltkm.com/asheron_call/",
+      "updated_at": ""
+    },
+    {
+      "id": "F67923DF-49ED-4382-BDDE-F2CD8AFD26B7",
+      "description": "",
+      "name": "YMCA",
+      "releases": {
+        "stable": {
+          "version": "2.9.0.0",
+          "download_url": ""
+        },
+        "beta": null,
+        "alpha": null
+      },
+      "author": "",
+      "maintainer": "",
+      "website_url": "http://ac.circleofseven.com/downloads/ymca/ymca.html",
+      "updated_at": ""
+    }
+  ]
